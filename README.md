@@ -1,4 +1,4 @@
-# onAirVR Client for Oculus Mobile ![current release](https://img.shields.io/github/release/onairvr/onairvr-client-for-oculus-mobile.svg)
+# onAirVR Client for Oculus Mobile ![current release](https://img.shields.io/github/release/onairvr/onairvr-client-for-oculus-mobile.svg) ![os](https://img.shields.io/badge/os-Android-green.svg)
 
 Make your PC VR game wirelessly playable!
 
@@ -8,7 +8,16 @@ onAirVR makes a mobile VR device act as a wireless VR HMD for a desktop by strea
 
 ## Before Getting Started
 
-onAirVR consists of two applications - mobile VR client app & contents app on PC. This plugin is for client app, and here are plugins for PC contents :
+onAirVR consists of two applications - mobile VR client app & content app on PC. 
+
+Please ensure you have right hardwares :
+
+* **Google Daydream** or **Oculus Mobile** device
+* **Windows** desktop powered by **NVIDIA graphics**
+
+If you have a Google Daydream device, check [onAirVR Client for Google VR](https://github.com/onairvr/onairvr-client-for-googlevr).
+
+This plugin is for client app development, and the plugins for PC content app are belows :
 
 - [onAirVR Server for Unity](https://github.com/onairvr/onairvr-server-for-unity)
 - [onAirVR Server for UE4](https://github.com/onairvr/onairvr-server-for-ue4)
@@ -24,7 +33,10 @@ You may download pre-exported packages of each version from [Releases](https://g
 
 ## User Guide
 
-Visit our [Wiki](https://github.com/onairvr/onairvr-client-for-oculus-mobile/wiki) to read the user guide.
+* [System Requirements](https://github.com/onairvr/onairvr-client-for-oculus-mobile/wiki/System-Requirements)
+* [Getting Started](https://github.com/onairvr/onairvr-client-for-oculus-mobile/wiki/Getting-Started)
+* [Programming Guide](https://github.com/onairvr/onairvr-client-for-oculus-mobile/wiki/Programming-Guide)
+* [API References](https://github.com/onairvr/onairvr-client-for-oculus-mobile/wiki/API-References)
 
 
 ## License
